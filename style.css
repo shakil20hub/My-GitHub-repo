@@ -4,5 +4,19 @@
 }
 .pic{
     width: 400px;
+}
+.account{
+    font-size: 20px;
+    font-weight: bold;
+}
+.account p{
+    margin-bottom: 30px;
+}
+ a {
+     background-color: orchid;       
+    padding: 20px 30px ;
+    text-decoration: none;
+    margin-top: 80px;
     
+            
 }
