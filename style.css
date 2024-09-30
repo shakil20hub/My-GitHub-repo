@@ -11,12 +11,15 @@
 }
 .account p{
     margin-bottom: 30px;
+    text-decoration: double;
 }
  a {
      background-color: orchid;       
-    padding: 20px 30px ;
+    padding: 20px 25px ;
     text-decoration: none;
-    margin-top: 80px;
+    font-weight: bold;
+    text-transform: uppercase;
+
     
             
 }
